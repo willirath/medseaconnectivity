@@ -6,15 +6,15 @@
           "type": "split-area",
           "orientation": "horizontal",
           "sizes": [
-            0.5,
-            0.5
+            0.67,
+            0.33
           ],
           "children": [
             {
               "type": "tab-area",
               "currentIndex": 0,
               "widgets": [
-                "application-mimedocuments:Welcome.md:Markdown Preview"
+                "markdownviewer-widget:Welcome.md"
               ]
             },
             {
