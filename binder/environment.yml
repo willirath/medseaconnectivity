@@ -4,7 +4,9 @@ channels:
 dependencies:
   - python=3.6
   - xarray
+  - xhistogram
   - dask
+  - dask-labextension
   - distributed
   - dask-kubernetes
   - gcsfs
@@ -15,14 +17,15 @@ dependencies:
   - python-blosc
   - lz4
   - nomkl
-  - nbserverproxy
+  - jupyter-server-proxy
   - jupyter
-  - jupyterlab=0.35
+  - jupyterlab
   - jupyterlab_launcher
   - jupyter_client
   - ipywidgets
   - graphviz
   - nodejs
+  - pip
   - pip:
     - kubernetes
     - graphviz
