@@ -2,6 +2,8 @@
 MedSeaConnectivity
 =============================
 
+View notebooks: https://nbviewer.jupyter.org/github/willirath/medseaconnectivity
+
 MedSeaConnectivity contains all the boilerplate you need to create a Pangeo-Binder ready repository.
 
 Try these notebooks on pangeo.binder.io_ : |Binder|
